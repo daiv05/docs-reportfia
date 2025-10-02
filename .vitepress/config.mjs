@@ -6,6 +6,11 @@ export default defineConfig({
   description: 'Historias de usuario del sistema ReportFIA',
   base: process.env.VITEPRESS_BASE || '/',
   
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]
+  ],
+  
   themeConfig: {
     nav: [
       { text: 'Inicio', link: '/' },

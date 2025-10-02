@@ -10,8 +10,8 @@ hero:
       text: Ver Historias de Usuario
       link: /historias-usuario/
     - theme: alt
-      text: Autenticación y Seguridad
-      link: /historias-usuario/01-autenticacion-seguridad
+      text: Descargar HU
+      link: https://drive.google.com/drive/folders/143zq956j4o4s1S5zZbtH3Gy-ZZmKK2Y2?usp=drive_link
 
 features:
   - icon: 🔐
